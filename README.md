@@ -28,6 +28,9 @@ Run the following command to start the Project
 4. npm start
 5. react-native run-android
 ```
+```
+Do not forget to connect your Device and to start developer mode.
+```
 
 ## May need to change some more file
 You may need to change your android tool build version in file build.gradle inside your Android folder.
